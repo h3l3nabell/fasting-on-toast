@@ -1,10 +1,10 @@
-﻿using Foundation;
+﻿using ChaosOnToast.FastingOnToastApp;
+using Foundation;
 
-namespace FastingOnToastApp
+namespace ChaosOnToast.FastingOnToastApp;
+
+[Register("AppDelegate")]
+public class AppDelegate : MauiUIApplicationDelegate
 {
-    [Register("AppDelegate")]
-    public class AppDelegate : MauiUIApplicationDelegate
-    {
-        protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
-    }
+    protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
 }

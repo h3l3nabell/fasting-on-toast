@@ -1,8 +1,8 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="FastingOnToastApp.WinUI.App"
+    x:Class="ChaosOnToast.FastingOnToastApp.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:FastingOnToastApp.WinUI">
+    xmlns:local="using:ChaosOnToast.FastingOnToastApp.WinUI">
 
 </maui:MauiWinUIApplication>

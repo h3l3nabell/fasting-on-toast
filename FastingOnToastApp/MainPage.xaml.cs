@@ -1,4 +1,4 @@
-﻿namespace FastingOnToastApp
+﻿namespace ChaosOnToast.FastingOnToastApp
 {
     public partial class MainPage : ContentPage
     {
