@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 using ChaosOnToast;
+using ChaosOnToast.FastingOnToastApp.ViewModel;
 
 namespace ChaosOnToast.FastingOnToastApp;
 
@@ -16,8 +17,14 @@ public static class MauiProgram
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
             });
 
+        builder.Services.AddSingleton<MainPage>();
+        builder.Services.AddSingleton<MainViewModel>();
+
+        builder.Services.AddTransient<DetailPage>();
+        builder.Services.AddTransient<DetailViewModel>();
+
 #if DEBUG
-		builder.Logging.AddDebug();
+        builder.Logging.AddDebug();
 #endif
 
         return builder.Build();
