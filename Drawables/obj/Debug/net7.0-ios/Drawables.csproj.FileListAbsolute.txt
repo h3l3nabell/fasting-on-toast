@@ -17,3 +17,4 @@ C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables
 C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-ios\refint\ChaosOnToast.Drawables.dll
 C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-ios\ChaosOnToast.Drawables.pdb
 C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-ios\ref\ChaosOnToast.Drawables.dll
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-ios\Drawables.sourcelink.json

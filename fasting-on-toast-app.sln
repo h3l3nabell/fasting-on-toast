@@ -5,7 +5,17 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastingOnToastApp", "FastingOnToastApp\FastingOnToastApp.csproj", "{6587C191-1863-445C-BA89-CB610912F0C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawables", "Drawables\Drawables.csproj", "{ECC5E241-70DB-4681-B849-CE9F63975E32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drawables", "Drawables\Drawables.csproj", "{ECC5E241-70DB-4681-B849-CE9F63975E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrackerAPI", "FastTrackerAPI\FastTrackerAPI.csproj", "{E7FD7C2F-B385-417F-8E65-DBBB323BF76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectureTests", "ArchitectureTests\ArchitectureTests.csproj", "{61712662-EAB7-4492-9EFB-8AC461512E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrackerDomain", "FastTrackerDomain\FastTrackerDomain.csproj", "{2DD776B7-9990-4E91-BBC1-43D3EB3910E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrackerApplication", "FastTrackerApplication\FastTrackerApplication.csproj", "{8E1046AA-59C0-468B-AD50-289AAC19EA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrackerInfrastructure", "FastTrackerInfrastructure\FastTrackerInfrastructure.csproj", "{F475902C-3D2A-4BE4-919C-195550D02D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +33,26 @@ Global
 		{ECC5E241-70DB-4681-B849-CE9F63975E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC5E241-70DB-4681-B849-CE9F63975E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC5E241-70DB-4681-B849-CE9F63975E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7FD7C2F-B385-417F-8E65-DBBB323BF76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FD7C2F-B385-417F-8E65-DBBB323BF76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FD7C2F-B385-417F-8E65-DBBB323BF76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FD7C2F-B385-417F-8E65-DBBB323BF76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61712662-EAB7-4492-9EFB-8AC461512E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61712662-EAB7-4492-9EFB-8AC461512E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61712662-EAB7-4492-9EFB-8AC461512E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61712662-EAB7-4492-9EFB-8AC461512E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD776B7-9990-4E91-BBC1-43D3EB3910E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD776B7-9990-4E91-BBC1-43D3EB3910E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD776B7-9990-4E91-BBC1-43D3EB3910E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD776B7-9990-4E91-BBC1-43D3EB3910E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1046AA-59C0-468B-AD50-289AAC19EA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1046AA-59C0-468B-AD50-289AAC19EA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1046AA-59C0-468B-AD50-289AAC19EA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1046AA-59C0-468B-AD50-289AAC19EA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F475902C-3D2A-4BE4-919C-195550D02D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F475902C-3D2A-4BE4-919C-195550D02D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F475902C-3D2A-4BE4-919C-195550D02D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F475902C-3D2A-4BE4-919C-195550D02D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

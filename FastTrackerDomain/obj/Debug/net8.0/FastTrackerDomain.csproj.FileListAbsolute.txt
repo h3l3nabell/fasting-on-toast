@@ -1,0 +1,12 @@
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\bin\Debug\net8.0\FastTrackerDomain.deps.json
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\bin\Debug\net8.0\FastTrackerDomain.dll
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\bin\Debug\net8.0\FastTrackerDomain.pdb
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.AssemblyInfoInputs.cache
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.AssemblyInfo.cs
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.csproj.CoreCompileInputs.cache
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.sourcelink.json
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.dll
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\refint\FastTrackerDomain.dll
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\FastTrackerDomain.pdb
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\FastTrackerDomain\obj\Debug\net8.0\ref\FastTrackerDomain.dll

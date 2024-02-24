@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChaosOnToast.Drawables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f222a00820ff3518e53a92d64ee918a693b1ba55")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChaosOnToast.Drawables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChaosOnToast.Drawables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

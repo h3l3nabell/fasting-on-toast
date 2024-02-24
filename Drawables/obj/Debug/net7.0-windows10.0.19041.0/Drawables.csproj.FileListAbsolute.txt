@@ -10,3 +10,4 @@ C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables
 C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-windows10.0.19041.0\refint\ChaosOnToast.Drawables.dll
 C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-windows10.0.19041.0\ChaosOnToast.Drawables.pdb
 C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-windows10.0.19041.0\ref\ChaosOnToast.Drawables.dll
+C:\Users\helen\OneDrive - Chaos on Toast Limited\code\fasting-on-toast\Drawables\obj\Debug\net7.0-windows10.0.19041.0\Drawables.sourcelink.json

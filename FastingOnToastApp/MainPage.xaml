@@ -11,20 +11,20 @@
       RowSpacing="10"
       ColumnSpacing="10"
       >
-        <Image Grid.ColumnSpan="2" 
+        <!--<Image Grid.ColumnSpan="2" 
            Source="dotnet_bot.png" 
-           BackgroundColor="Aquamarine"/>
+           BackgroundColor="Aquamarine"/>-->
 
-        <Entry Placeholder="Your Name" 
+        <!--<Entry Placeholder="Your Name" 
            Text="{Binding Text}"
            Grid.Row="1" />
 
         <Button Text="Add"
             Command="{Binding AddCommand}"
             Grid.Row="1"
-            Grid.Column="1" />
+            Grid.Column="1" />-->
 
-        <CollectionView Grid.Row="2" Grid.ColumnSpan="2"
+        <CollectionView Grid.Row="1" Grid.ColumnSpan="2"
                     ItemsSource="{Binding Items}"
                     SelectionMode="None">
 
